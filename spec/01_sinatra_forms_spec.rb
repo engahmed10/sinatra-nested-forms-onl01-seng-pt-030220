@@ -46,7 +46,7 @@ describe "FormsLab::App" do
     end
   end
 
-  describe "POST '/pirates'" do
+  describe "POST '/pirates'" do        
     before do
       post '/pirates', {
         "pirate"=> {
