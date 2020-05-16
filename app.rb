@@ -22,6 +22,5 @@ module FormsLab
   end
 end
 
-
 #pirates[pirate][name]      pirates[pirate][weight]  pirates[pirate][height]  pirates[pirate][ships][][name] pirates[pirate][ships][][booty]
 #pirates[pirate][ships][][type]
